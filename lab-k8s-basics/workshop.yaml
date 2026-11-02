@@ -1,0 +1,7 @@
+name: lab-k8s-basics
+title: "Kubernetes 101: Fondamenti"
+description: "Laboratorio pratico sui comandi base di kubectl e Pod."
+modules:
+  steps:
+    - lab-k8s-basics/modules/01-intro
+    - lab-k8s-basics/modules/02-pods
