@@ -1,0 +1,6 @@
+name: lab-k8s-basics
+title: "Kubernetes 101: Modulo 1"
+description: "Ispezione cluster e comandi kubectl."
+modules:
+  activate:
+    - 01-intro
